@@ -1,2 +1,3 @@
-# SMKD
-Code implementation for the paper: Supervised Masked Knowledge Distillation for Few-Shot Transformers
+# Supervised Masked Knowledge Distillation for Few-Shot Transformers (SMKD)
+
+Code for this project will be repleased soon!
