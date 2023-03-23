@@ -1,0 +1,29 @@
+name: smkd
+channels:
+  - pyg
+  - pytorch
+  - defaults
+dependencies:
+  - numpy=1.21.2=py38h20f2e39_0
+  - python=3.8.13=h12debd9_0
+  - pytorch=1.11.0=py3.8_cuda11.3_cudnn8.2.0_0
+  - scikit-learn=1.0.2=py38h51133e4_1
+  - scipy=1.7.3=py38hc147768_0
+  - torchvision=0.12.0=py38_cu113
+  - tqdm=4.63.0=pyhd3eb1b0_0
+  - yaml=0.2.5=h7b6447c_0
+  - pip=21.1.1=py38h06a4308_0
+  - pip:
+    - matplotlib==3.5.1
+    - matplotlib-inline==0.1.3
+    - opencv-python==4.5.5.64
+    - pip==22.0.4
+    - seaborn==0.11.2
+    - trimesh==3.10.8
+    - wandb==0.12.14
+    - tensorboardx==2.4
+    - h5py==3.7.0
+    - scikit-image==0.16.2
+    - timm==0.5.4
+    - munkres==1.1.4
+prefix: /home/hanlin/anaconda3/envs/smkd
