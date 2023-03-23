@@ -169,12 +169,12 @@ We use ```eval_smkd.py``` to evaluate a trained model (either from phase1 or pha
 
 For example, we can use the following code to do 5-way 5-shot evaluation on the model trained in phase2 on mini-ImageNet:
 
-**prototype**:
+- **prototype**:
 ```sh
 python eval_smkd.py --server mini --num_shots 5 --ckp_path /root/autodl-nas/FSVIT_results/MINI480_phase2 --ckpt_filename checkpoint0040.pth --output_dir /root/autodl-nas/FSVIT_results/MINI480_prototype --evaluation_method cosine --iter_num 10000
 ```
 
-**classifier**:
+- **classifier**:
 ```sh
 python eval_smkd.py --server mini --num_shots 5 --ckp_path /root/autodl-nas/FSVIT_results/MINI480_phase2 --ckpt_filename checkpoint0040.pth --output_dir /root/autodl-nas/FSVIT_results/MINI480_classifier --evaluation_method classifier --iter_num 1000
 ```
