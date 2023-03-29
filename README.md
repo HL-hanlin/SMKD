@@ -5,9 +5,7 @@ This is the PyTorch implementation of ["Supervised Masked Knowledge Distillation
 
 [Han Lin\*](https://hl-hanlin.github.io/), [Guangxing Han\*](https://guangxinghan.github.io/), [Jiawei Ma](http://www.columbia.edu/~jm4743/), [Shiyuan Huang](https://shiyuanh.github.io/), [Xudong Lin](https://xudonglinthu.github.io/), [Shih-Fu Chang](https://www.ee.columbia.edu/~sfchang/)
 
-Columbia University
-
-Department of Computer Science
+Columbia University, Department of Computer Science
 
 The IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR), 2023
 
