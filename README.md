@@ -184,6 +184,16 @@ python eval_smkd.py --server mini --num_shots 5 --ckp_path /root/autodl-nas/FSVI
 
 ## Citation
 
+```
+@misc{lin2023supervised,
+      title={Supervised Masked Knowledge Distillation for Few-Shot Transformers}, 
+      author={Han Lin and Guangxing Han and Jiawei Ma and Shiyuan Huang and Xudong Lin and Shih-Fu Chang},
+      year={2023},
+      eprint={2303.15466},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
+```
 
 ## Acknowledgement
 
