@@ -1,4 +1,4 @@
-# SMKD (wip)
+# SMKD 
 
 This is the PyTorch implementation of ["Supervised Masked Knowledge Distillation for Few-Shot Transformers"](https://arxiv.org/abs/2303.15466). 
 
