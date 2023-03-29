@@ -9,7 +9,7 @@ Columbia University, Department of Computer Science
 
 The IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR), 2023
 
-![diagram](diagram_smkd.pdf)
+![diagram](https://github.com/HL-hanlin/SMKD/blob/main/diagram_smkd.pdf)
 
 ## Installation
 
@@ -185,7 +185,7 @@ python eval_smkd.py --server mini --num_shots 5 --ckp_path /root/autodl-nas/FSVI
 
 ## Citation
 
-```
+```BibTeX
 @misc{lin2023supervised,
       title={Supervised Masked Knowledge Distillation for Few-Shot Transformers}, 
       author={Han Lin and Guangxing Han and Jiawei Ma and Shiyuan Huang and Xudong Lin and Shih-Fu Chang},
