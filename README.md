@@ -9,6 +9,7 @@ Columbia University, Department of Computer Science
 
 The IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR), 2023
 
+![diagram](diagram_smkd.pdf)
 
 ## Installation
 
